@@ -138,7 +138,7 @@ If you want to know how to use it, select this and you can read the documentatio
 
 Displays the settings window.
 
-The setting items are explained in [Setting Items](https://github.com/QuestDragon/TuneBar/new/main?filename=README.md#%E8%A8%AD%E5%AE%9A%E9%A0%85%E7%9B%AE).
+The setting items are explained in [Setting Items](https://github.com/QuestDragon/TuneBar/edit/main/README_EN.md#setting-items).
 
 > [!TIP]
 > This function can also be performed by doing the following:
@@ -168,7 +168,7 @@ You can access the settings window from the context menu, task tray icon, or toa
 
 This section explains the items displayed in the settings window and the settings you can configure.
 
-#### TuneBar設定画面
+#### TuneBar Settings screen
 
 ![settings](./settings.png)
 
@@ -251,12 +251,12 @@ The toast notification icons have the following meanings.
 **Ignore list...**：Displays the setting screen where you can specify applications that will not run TuneBar.
 
 > [!IMPORTANT]
-> For this section, please check the [TuneBar list screen](https://github.com/QuestDragon/TuneBar/new/main?filename=README.md#tunebar%E3%83%AA%E3%82%B9%E3%83%88%E7%94%BB%E9%9D%A2).
+> For this section, please check the [TuneBar list screen](https://github.com/QuestDragon/TuneBar/edit/main/README_EN.md#tunebar-list-screen).
 
 **Target list...**：A settings screen will be displayed that allows TuneBar to work only in specified applications.
 
 > [!IMPORTANT]
-> For this section, please check the [TuneBar list screen](https://github.com/QuestDragon/TuneBar/new/main?filename=README.md#tunebar%E3%83%AA%E3%82%B9%E3%83%88%E7%94%BB%E9%9D%A2).
+> For this section, please check the [TuneBar list screen](https://github.com/QuestDragon/TuneBar/edit/main/README_EN.md#tunebar-list-screen).
 
 > [!CAUTION]
 > If you add an application to both the `Ignore list` and the `Target list`, the `Ignore list` takes precedence.
@@ -309,20 +309,20 @@ The toast notification icons have the following meanings.
 > [!CAUTION]
 > A confirmation dialog will be displayed, but if you click "`OK`" in this dialog, your changes will be discarded.
 >
-> Please note that only the changes in the list will be discarded; the contents of the [TuneBar setting screen](https://github.com/QuestDragon/TuneBar/new/main?filename=README.md#%E8%A8%AD%E5%AE%9A%E9%A0%85%E7%9B%AE) will be retained.
+> Please note that only the changes in the list will be discarded; the contents of the [TuneBar setting screen](https://github.com/QuestDragon/TuneBar/edit/main/README_EN.md#tunebar-setting-screen) will be retained.
 >
-> If you want to save only the contents of [TuneBar setting screen](https://github.com/QuestDragon/TuneBar/new/main?filename=README.md#%E8%A8%AD%E5%AE%9A%E9%A0%85%E7%9B%AE), 
-> click the OK button on [TuneBar setting screen](https://github.com/QuestDragon/TuneBar/new/main?filename=README.md#%E8%A8%AD%E5%AE%9A%E9%A0%85%E7%9B%AE) after this operation.
+> If you want to save only the contents of [TuneBar setting screen](https://github.com/QuestDragon/TuneBar/edit/main/README_EN.md#tunebar-setting-screen), 
+> click the OK button on [TuneBar setting screen](https://github.com/QuestDragon/TuneBar/edit/main/README_EN.md#tunebar-setting-screen) after this operation.
 
 **Current process name list**：A message box will appear with a list of process names currently detected by TuneBar. Process names that have been added to the list will have `(Added)` at the end.
 
 > [!NOTE]
-> This is only displayed if you select `Ignore list...` or `Target list...` on the [TuneBar setting screen](https://github.com/QuestDragon/TuneBar/new/main?filename=README.md#%E8%A8%AD%E5%AE%9A%E9%A0%85%E7%9B%AE).
+> This is only displayed if you select `Ignore list...` or `Target list...` on the [TuneBar setting screen](https://github.com/QuestDragon/TuneBar/edit/main/README_EN.md#tunebar-setting-screen).
 
 **Current sound playing app list**：A message box will be displayed showing the process names currently detected by TuneBar that are playing sound. Process names that have been added to the list will have `(Added)` at the end.
 
 > [!NOTE]
-> This will only be displayed if you select "`Ignore list...`" next to "Other apps will not work while music is playing" in [TuneBar設定画面](https://github.com/QuestDragon/TuneBar/new/main?filename=README.md#%E8%A8%AD%E5%AE%9A%E9%A0%85%E7%9B%AE).
+> This will only be displayed if you select "`Ignore list...`" next to "Other apps will not work while music is playing" in [TuneBar Settings screen](https://github.com/QuestDragon/TuneBar/edit/main/README_EN.md#tunebar-settings-screen).
 
 **Remove...**：This button deletes the item selected in the list. Click the item with the mouse to select it, then press the button to display a confirmation dialog. Click "OK" to delete it.
 
