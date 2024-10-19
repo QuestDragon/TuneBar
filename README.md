@@ -5,8 +5,8 @@ Version: 1.0.0.0
 
 ## 日本語
 
-[Readme.md](./Readme_jp.md)
+[Readme.md](./README_JP.md)
 
 ## English
 
-[Readme.md](./Readme_en.md)
+[Readme.md](./README_EN.md)
