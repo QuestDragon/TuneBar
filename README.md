@@ -1,4 +1,7 @@
 # TuneBar - Created By QuestDragon
+
+_A moment of music on the progress bar._
+
 Version: 1.0.0.0
 
 ![TuneBar](./Tunebar.png)
